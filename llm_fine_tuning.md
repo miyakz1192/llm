@@ -81,3 +81,9 @@ https://blueqat.com/yuichiro_minato2/d2a03601-2f3e-4535-980d-33c79add516c
 少し詳し目。
 
 https://speakerdeck.com/hpprc/lun-jiang-zi-liao-lora-low-rank-adaptation-of-large-language-models?slide=53
+
+以下が、一番簡潔でわかりやすい説明だった。個人的にはベスト（最もわかりやすい）
+
+https://techblog.cccmkhd.co.jp/entry/2023/06/20/154850
+
+
